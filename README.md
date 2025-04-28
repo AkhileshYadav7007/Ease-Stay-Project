@@ -1,4 +1,5 @@
 # Ease-Stay-Project
+
 Project Name: EASE Stay
 Client: EASE Stay
 Tech Stack: React.js (Frontend), Spring Boot (Backend), MySQL (Database)
@@ -89,4 +90,15 @@ ________________________________________
 •	Multi-language support
 •	AI-powered chat assistant for customer inquiries
 ________________________________________
+src
+└── main
+    └── java
+        └── com.example.New_Esae_Stay
+            ├── controller   (API Layer)
+            ├── service       (Business Layer)
+            ├── repository    (Database Layer)
+            └── entity        (Table Models)
+    └── resources
+        ├── application.properties (for DB connection)
+
 
