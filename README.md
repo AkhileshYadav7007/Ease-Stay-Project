@@ -1,3 +1,21 @@
+Hotel Administer (superuser or top-level admin per hotel group) can:
+
+Perform CRUD on Hotels
+
+Create Hotel Managers (with login credentials)
+
+Hotel Managers (per individual hotel) can:
+
+Perform CRUD on Rooms, Bookings, Pricing for their assigned hotel
+
+B2C Users can:
+
+Browse hotels, search/filter rooms, and book them
+
+
+
+
+
 # Ease-Stay-Project
 
 Project Name: EASE Stay
