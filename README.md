@@ -15,6 +15,24 @@ B2C Users can:
 Browse hotels, search/filter rooms, and book them
 
 
+💡 Use Case: Bargaining Feature
+🔄 Workflow:
+User selects a room and clicks “Negotiate Price”.
+
+User submits an offer (e.g., ₹1800 instead of ₹2000).
+
+Hotel Manager gets notified and can:
+
+Accept the offer (user books at the new price)
+
+Reject the offer (user sees rejection)
+
+Counter offer (e.g., ₹1900 → user accepts/rejects)
+
+If accepted, user proceeds to booking with the agreed price.
+-----------------------------------------------------------------
+
+
 
 
 
