@@ -1,3 +1,5 @@
+# Ease-Stay-Project
+
 Hotel Administer (superuser or top-level admin per hotel group) can:
 
 Perform CRUD on Hotels
@@ -16,7 +18,7 @@ Browse hotels, search/filter rooms, and book them
 
 
 
-# Ease-Stay-Project
+
 
 Project Name: EASE Stay
 Client: EASE Stay
