@@ -80,18 +80,18 @@ Backend
 •	REST APIs with JSON responses
 ________________________________________
 5. Route Map
-Customer Routes
-	Component	Description
-Home	                   Homepage with overview
-About	                        Info about the hotel
-	Rooms	List all available rooms
-	Room Details	 View single room details
-	Booking Form                   	Book a room
-	Contact	Contact form and info
+ <br>Customer Routes
+ Component	Description
+Home	       Homepage with overview
+About	       Info about the hotel
+Rooms	       List all available rooms
+Room Details   View single room details
+Booking Form    Book a room
+Contact	        Contact form and info
 Admin Routes
 Component	Description
-Login	Admin login page
-/admin/dashboard	Admin Dashboard	Admin room & booking manager
+Login	        Admin login page
+Admin Dashboard	Admin room & booking manager
 ________________________________________
 6. Database Structure
 Tables:
@@ -138,5 +138,16 @@ src
             └── entity        (Table Models)
     └── resources
         ├── application.properties (for DB connection)
+
+
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/1f5701c4-9fb6-4f33-853f-b2275d72ee1d" />
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/d3c8c138-6939-418c-8ed8-1a42bd7bc0ea" />
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/2a83d46c-6b37-4cd4-bc64-06e2771928b1" />
+<img width="355" alt="image" src="https://github.com/user-attachments/assets/6538def6-76ce-4d0c-bd1b-4d1f707604bf" />
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/802147d8-2009-4f9f-bc6a-27e130f528f1" />
+
+
+
+
 
 
